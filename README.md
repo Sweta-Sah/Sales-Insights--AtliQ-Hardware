@@ -1,5 +1,5 @@
 @@ -1,9 +1,11 @@
-# Sales Insights Dashboard [AtliQ Hardware]
+#Sales Insights Dashboard [AtliQ Hardware]
 This is a project I made with the help of a Youtube Playlist from Codebasics. You can find the link of the playlist below.
 
 [Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
